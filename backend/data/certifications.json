@@ -1,0 +1,110 @@
+[
+  {
+    "id": "tf-dev",
+    "title": "TensorFlow Developer Certificate",
+    "provider": "Google / TensorFlow",
+    "level": "Beginner",
+    "price": "$100",
+    "image_url": "",
+    "skills": ["python", "machine learning", "tensorflow", "deep learning", "computer vision", "nlp"]
+  },
+  {
+    "id": "aws-ml",
+    "title": "AWS Certified Machine Learning - Specialty",
+    "provider": "Amazon Web Services",
+    "level": "Advanced",
+    "price": "$300",
+    "image_url": "",
+    "skills": ["aws", "cloud computing", "machine learning", "sagemaker", "data engineering", "nlp"]
+  },
+  {
+    "id": "gcp-pca",
+    "title": "Google Cloud Professional Cloud Architect",
+    "provider": "Google Cloud",
+    "level": "Advanced",
+    "price": "$200",
+    "image_url": "",
+    "skills": ["gcp", "cloud computing", "architecture", "kubernetes", "security", "networking"]
+  },
+  {
+    "id": "gcp-pml",
+    "title": "Google Cloud Professional Machine Learning Engineer",
+    "provider": "Google Cloud",
+    "level": "Advanced",
+    "price": "$200",
+    "image_url": "",
+    "skills": ["gcp", "cloud computing", "machine learning", "vertex ai", "python", "data engineering"]
+  },
+  {
+    "id": "azure-ai-fun",
+    "title": "Microsoft Certified: Azure AI Fundamentals (AI-900)",
+    "provider": "Microsoft Azure",
+    "level": "Beginner",
+    "price": "$99",
+    "image_url": "",
+    "skills": ["azure", "cloud computing", "artificial intelligence", "machine learning", "cognitive services"]
+  },
+  {
+    "id": "azure-ai-eng",
+    "title": "Microsoft Certified: Azure AI Engineer Associate (AI-102)",
+    "provider": "Microsoft Azure",
+    "level": "Intermediate",
+    "price": "$165",
+    "image_url": "",
+    "skills": ["azure", "artificial intelligence", "cognitive services", "nlp", "computer vision", "search"]
+  },
+  {
+    "id": "ckad",
+    "title": "Certified Kubernetes Application Developer (CKAD)",
+    "provider": "The Linux Foundation",
+    "level": "Intermediate",
+    "price": "$399",
+    "image_url": "",
+    "skills": ["kubernetes", "containers", "docker", "devops", "cloud computing"]
+  },
+  {
+    "id": "comptia-sec",
+    "title": "CompTIA Security+",
+    "provider": "CompTIA",
+    "level": "Beginner",
+    "price": "$392",
+    "image_url": "",
+    "skills": ["security", "networking", "cryptography", "threat intelligence", "compliance"]
+  },
+  {
+    "id": "google-data-analytics",
+    "title": "Google Data Analytics Professional Certificate",
+    "provider": "Google / Coursera",
+    "level": "Beginner",
+    "price": "Free",
+    "image_url": "",
+    "skills": ["sql", "r programming", "data analysis", "tableau", "spreadsheets"]
+  },
+  {
+    "id": "huggingface-nlp",
+    "title": "Hugging Face NLP Course Certification",
+    "provider": "Hugging Face",
+    "level": "Intermediate",
+    "price": "Free",
+    "image_url": "",
+    "skills": ["python", "nlp", "transformers", "hugging face", "pytorch", "deep learning"]
+  },
+  {
+    "id": "fastai-dl",
+    "title": "Practical Deep Learning for Coders",
+    "provider": "Fast.ai",
+    "level": "Beginner",
+    "price": "Free",
+    "image_url": "",
+    "skills": ["python", "deep learning", "pytorch", "fastai", "machine learning", "computer vision"]
+  },
+  {
+    "id": "mit-ml-ds",
+    "title": "MIT MicroMasters in Statistics and Data Science",
+    "provider": "MIT / edX",
+    "level": "Advanced",
+    "price": "Free",
+    "image_url": "",
+    "skills": ["python", "machine learning", "statistics", "data analysis", "probability"]
+  }
+]
